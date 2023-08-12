@@ -1,0 +1,190 @@
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+    
+    
+
+
+ul {
+    display: flex;
+    gap: 20px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: lightgrey;
+
+}
+
+
+ .container {
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-top: 10px;
+
+    
+    
+    
+}
+
+.mh-logo {
+    display: flex;
+    color: white;
+
+}
+
+.first-container {
+    background-color: #1F2937;
+}
+
+.main-nav {
+    
+}
+
+.awesome {
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+button {
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: column;
+    max-width: 80px;
+    color: white;
+    border-radius: 5px;
+    align-items: center;
+    outline-color: white;
+    
+
+}
+
+
+img {
+
+    
+}
+
+.first-minor-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.awesome-subtext {
+    color: #E5E7EB;
+    margin: 10px 0;
+    font-size: 18px;
+
+
+}
+
+.main-info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 20%;
+}
+
+.second-minor-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.minor-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.box {
+    border: 5px solid #3882F6;
+    padding: 60px;
+    border-radius: 10%;
+}
+
+.para_box {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 220px;
+}
+
+.third-container {
+    text-align: center;
+    background-color: #E5E7EB;
+    padding: 40px;
+    display: flex;
+    align-items: last baseline;
+}
+.quote {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+    max-width: 1100px;
+    margin-left: 200px;
+    flex: 1;
+}
+
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    padding: 60px;
+
+
+}
+
+.call-to-action {
+    color: white;
+}
+
+h3 {
+    margin: 0;
+}
+h5 {
+    margin: 0;
+}
+.fourth-minor-container {
+    display: flex;
+    align-items: last baseline;
+    justify-content: space-between;
+    border: 5px solid #3882F6;
+    padding: 20px 150px;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+.second-button {
+    border: 1px solid white;
+    margin-left: 100px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+}
+
+
